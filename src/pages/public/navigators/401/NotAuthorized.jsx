@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function NotAuthorized() {
+export default function NotAuthorized () {
   return (
     <div>NotAuthorized</div>
   )
