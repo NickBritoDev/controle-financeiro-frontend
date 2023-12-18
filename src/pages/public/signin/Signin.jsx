@@ -27,7 +27,7 @@ export default function Signin () {
   const [senha, setSenha] = useState('')
 
   const handleLogin = () => {
-    navigate('/home')
+    navigate('/controle-financeiro-frontend/home')
   }
 
   const handleSubmit = (event) => {

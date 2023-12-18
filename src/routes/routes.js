@@ -9,7 +9,7 @@ import Signup from '../pages/public/signup/Signup'
 export default function Routes () {
   const routing = useRoutes([
     {
-      path: '/',
+      path: '/controle-financeiro-frontend',
       element: <Layout />,
       children: [
         { path: '', element: <Signin /> },
