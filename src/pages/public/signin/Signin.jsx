@@ -15,8 +15,8 @@ import React, { useState } from 'react'
 import { FcMoneyTransfer } from 'react-icons/fc'
 import logo from '../../../images/logo.jpeg'
 import '../../../animations/form.css'
-import '../../../animations/logo.css'
 import '../../../animations/image.css'
+import '../../../animations/logo.css'
 import { useNavigate } from 'react-router-dom'
 
 export default function Signin () {
